@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center"
+  <a href="">👋🏼 Hi, I'm Telmo Alves 👨🏼‍💻</a>
+</h1>
 
-<!--
-**telmovalves/telmovalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work Web Developer with skills front-end and back-end, i'm base in Lisbon, 🇵🇹. 
 
-Here are some ideas to get you started:
+# Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### (Front-end)
+* HTML
+* CSS
+* JavaScript
+* BootStrap
+
+### (Back-end)
+* PHP
+* Node.js
+* SQL
+* Express.js
+
+# Hobbies
+* Codding
+* Gamming
+* Learn new technologies
