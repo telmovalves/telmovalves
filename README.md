@@ -1,6 +1,4 @@
-<h1 align="center"
-  <a href="https://github.com/telmovalves">👋🏼 Hi, I'm Telmo Alves 👨🏼‍💻</a>
-</h1>
+<h1 align="center">👋🏼 Hi, I'm Telmo Alves 👨🏼‍💻</h1>
 
 <p>I working Web Developer with skills front-end and back-end, i'm live in Lisbon, 🇵🇹.</p>
 
@@ -18,7 +16,7 @@
   <img align="center" alt="telmovalves-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="telmovalves-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="telmovalves-PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="telmovalves-PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="telmovalves-LARAVEL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="telmovalves-MYSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
 </div>
 
