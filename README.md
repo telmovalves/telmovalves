@@ -1,24 +1,40 @@
 <h1 align="center"
-  <a href="">👋🏼 Hi, I'm Telmo Alves 👨🏼‍💻</a>
+  <a href="https://github.com/telmovalves">👋🏼 Hi, I'm Telmo Alves 👨🏼‍💻</a>
 </h1>
 
-I work Web Developer with skills front-end and back-end, i'm base in Lisbon, 🇵🇹. 
+<p>I working Web Developer with skills front-end and back-end, i'm live in Lisbon, 🇵🇹.</p>
 
-# Skills
+<div align="center">
+  <a href="https://github.com/telmovalves/github-readme-stats">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=telmovalves&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=telmovalves&layout=compact&langs_count=7&theme=github_dark"/>
+  </a>
+</div>
 
-### (Front-end)
-* HTML
-* CSS
-* JavaScript
-* BootStrap
+#
+`` 🤹 Skills ``
+<div style="display: inline_block">
+  <img align="center" alt="telmovalves-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="telmovalves-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="telmovalves-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="telmovalves-PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="telmovalves-PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="telmovalves-MYSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+</div>
 
-### (Back-end)
-* PHP
-* Node.js
-* SQL
-* Express.js
-
-# Hobbies
-* Codding
-* Gamming
-* Learn new technologies
+#
+`` 📖 Learning ``
+<div style="display: inline_block">
+  <img align="center" alt="telmovalves-FLUTTER" height="40" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
+  <img align="center" alt="telmovalves-VUEJS" height="40" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg">
+  <img align="center" alt="telmovalves-NODEJS" height="40" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+ </div>
+ 
+ # 
+`` 🌏 Networking ``
+<div>
+  <a href="https://www.linkedin.com/in/telmo-valdez-alves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:telmo.valdez.alves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/telmo.alves95" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ </div>
+ 
